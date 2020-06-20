@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+    <class>app_window</class>
+    <widget class="QMainWindow" name="app_window">
+        <property name="geometry">
+            <rect>
+                <x>0</x>
+                <y>0</y>
+                <width>486</width>
+                <height>531</height>
+            </rect>
+        </property>
+        <property name="font">
+            <font>
+                <family>Calibri</family>
+                <pointsize>10</pointsize>
+            </font>
+        </property>
+        <property name="windowTitle">
+            <string>App Window</string>
+        </property>
+        <property name="locale">
+            <locale language="English" country="UnitedStates"/>
+        </property>
+        <widget class="QWidget" name="centralwidget"/>
+    </widget>
+    <resources/>
+    <connections/>
+</ui>
